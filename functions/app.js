@@ -2,20 +2,23 @@
 function machin() {
 	return true ;
 }
-console.log( machin() )
+	console.log( machin() )
+
 
 // Exercice 2
 function chaines_de_caractères(bien){
 	return bien ;
 
 }
+	console.log(chaines_de_caractères("bien"));
 
-console.log(chaines_de_caractères("bien"));
 
 // Exercice 3
 function chaine_de_caractère(bien, poto){
 	return bien + poto;
 
-}
+}  
+	console.log(chaine_de_caractère("bien", "poto"));
 
-console.log(chaines_de_caractères("bien poto"));
+
+// Exercice 4
