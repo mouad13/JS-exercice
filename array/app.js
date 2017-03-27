@@ -19,7 +19,7 @@ var mois = ['Janvier','fevrier','mars','avril', 'mai', 'juin', 'juillet', 'aout'
 // Exercice 6
 	for (var i = 0; i < mois.length; i++){
 
-		console.log(i);
+		console.log(mois[i]);
 	}
 
 
