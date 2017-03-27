@@ -11,3 +11,11 @@ function chaines_de_caractères(bien){
 }
 
 console.log(chaines_de_caractères("bien"));
+
+// Exercice 3
+function chaine_de_caractère(bien, poto){
+	return bien + poto;
+
+}
+
+console.log(chaines_de_caractères("bien poto"));
