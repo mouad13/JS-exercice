@@ -1,6 +1,13 @@
-// 
+// Exercice 1
 function machin() {
-	console.log('true');
+	return true ;
+}
+console.log( machin() )
+
+// Exercice 2
+function chaines_de_caractères(bien){
+	return bien ;
 
 }
-machin();
+
+console.log(chaines_de_caractères("bien"));
