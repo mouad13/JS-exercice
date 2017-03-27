@@ -1,4 +1,4 @@
-var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+var array = ['Pommes','Cerise','Tomate','Citron', ['Orange','Poivron']];
 
 // Exercice 8
 	array.push("courgette");
