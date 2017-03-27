@@ -38,3 +38,10 @@ function nombres(a, b){
  
  var resultat = nombres(70, 70);
  console.log(resultat);
+
+ // Exercice 5
+ function chaine_nombres(chiffre1, chaine){
+ 	return  chiffre1 + " " + chaine ;
+
+ }
+ console.log(chaine_nombres(25, "hello"));
