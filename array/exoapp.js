@@ -15,3 +15,4 @@ var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 // Exercice 11
     array.splice(2, 0, "Poire");
     console.log(array); 		
+
