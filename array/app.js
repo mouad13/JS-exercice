@@ -17,6 +17,9 @@ var mois = ['Janvier','fevrier','mars','avril', 'mai', 'juin', 'juillet', 'aout'
 	console.log(mois[7]);
 
 // Exercice 6
-	console.log(mois);
+	for (var i = 0; i < mois.length; i++){
+
+		console.log(i);
+	}
 
 
