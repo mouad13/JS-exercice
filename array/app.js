@@ -1,8 +1,7 @@
+// Exercice 1
 var mois = ['Janvier','fevrier','mars','avril', 'mai', 'juin', 'juiellet', 'aout', 'septembre', 
 'octobre', 'novembre', 'decembre'];
 
-// Exercice 1
-	console.log(mois);
 	
 // Exercice 2
 	console.log(mois[2]);
@@ -16,3 +15,6 @@ var mois = ['Janvier','fevrier','mars','avril', 'mai', 'juin', 'juiellet', 'aout
 // Exercice 5		
 	mois.splice(7, 1, "août")
 	console.log(mois[7]);
+
+//Exercice 6
+	console.log(mois);
