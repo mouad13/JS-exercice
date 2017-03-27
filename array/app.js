@@ -5,4 +5,7 @@ var mois = ['Janvier','fevrier','mars','avril', 'mai', 'juin', 'juiellet', 'aout
 	console.log(mois);
 	
 // Exercice 2
-	console.log(mois[2]);	
+	console.log(mois[2]);
+
+// Exercice 3
+	console.log(mois[4]);		
