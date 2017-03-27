@@ -22,3 +22,19 @@ function chaine_de_caractère(bien, poto){
 
 
 // Exercice 4
+function nombres(a, b){
+
+	if (a > b) {
+		return "Le premier nombre est plus grand";
+	}
+	else if (a == b) {
+		return "Les deux nombres sont identiques";
+	}
+	else {
+		return "Le premier nombre est plus petit" ;
+	}
+
+}
+ 
+ var resultat = nombres(70, 70);
+ console.log(resultat);
