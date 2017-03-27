@@ -7,3 +7,7 @@ var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 // Exercice 9
 	array.splice(4, 0, "Citron")
 	console.log(array);	
+
+// Exercice 10
+ 	array.splice(1, 1);
+ 	console.log(array);	

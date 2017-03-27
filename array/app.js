@@ -19,6 +19,4 @@ var mois = ['Janvier','fevrier','mars','avril', 'mai', 'juin', 'juillet', 'aout'
 // Exercice 6
 	console.log(mois);
 
-// Exercice 8
-	mois.push("Courgette");
-	
+
