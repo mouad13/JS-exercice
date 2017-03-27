@@ -6,19 +6,19 @@ function machin() {
 
 
 // Exercice 2
-function chaines_de_caractères(bien){
+function chainesDeCaractères(bien){
 	return bien ;
 
 }
-	console.log(chaines_de_caractères("bien"));
+	console.log(chainesDeCaractères("bien"));
 
 
 // Exercice 3
-function chaine_de_caractère(bien, poto){
+function chaineDeCaractère(bien, poto){
 	return bien + poto;
 
 }  
-	console.log(chaine_de_caractère("bien", "poto"));
+	console.log(chaineDeCaractère("bien", "poto"));
 
 
 // Exercice 4
@@ -40,8 +40,15 @@ function nombres(a, b){
  console.log(resultat);
 
  // Exercice 5
- function chaine_nombres(chiffre1, chaine){
+ function chaineNombres(chiffre1, chaine){
  	return  chiffre1 + " " + chaine ;
 
  }
- console.log(chaine_nombres(25, "hello"));
+ console.log(chaineNombres(25, "hello"));
+ 
+ // Exercice 6
+function identité(nom, prenom, age) {
+	return "Bonjour" + " " + nom + " " + prenom + ",tu as" + age + " " + "ans";
+
+}
+console.log(identité("Rifai", "Mouad", 25));
