@@ -52,3 +52,6 @@ function identité(nom, prenom, age) {
 
 }
 console.log(identité("Rifai", "Mouad", 25));
+
+// Exercice 7
+function genre()
